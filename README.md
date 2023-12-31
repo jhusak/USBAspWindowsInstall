@@ -18,7 +18,15 @@ Here direct link: http://khazama.com/project/programmer/KhazamaAVRProgrammer.rar
 
 You may need WinRar to run the installer.
 
-When installed, choose microcontroller "atmega8", load hex file into buffer, then click the icon with an arrow from file to memory and 'F' letter. That's it!
+When installed and run:
+
+1. choose microcontroller "atmega8"
+
+2. load hex file into buffer
+
+3. click the "flash" icon. That's it!
+
+![Khazama screenshot](/pics/khazama.png)
 
 ### Congratulations!
 
