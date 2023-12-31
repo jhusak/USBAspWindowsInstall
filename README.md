@@ -16,7 +16,7 @@ Interfejs USBJoy ma wbudowany programator USBAsp. Możesz go aktywować, naciska
 
 ![Zrzut ekranu Zadig](/pics/zadig_srceenshot.png)
 
-### Programator Khazama
+### Programator Khazama AVR Programmer
 
 Na http://khazama.com/project/programmer/ znajdziesz aplikację "Khazama programmer".
 
@@ -60,7 +60,7 @@ The USBJoy interface has USBAsp programmer built-in. You can activate it by pres
 
 ![Zadig screenshot](/pics/zadig_srceenshot.png)
 
-### Khazama programmer
+### Khazama AVR Programmer
 At http://khazama.com/project/programmer/ you'll find the app.
 
 Here direct link: http://khazama.com/project/programmer/KhazamaAVRProgrammer.rar
@@ -79,6 +79,6 @@ When installed and run:
 
 ### Congratulations!
 
-Your USBJoy firmware has just been updated!
+Your USBJoy (or USBAsp device) firmware has just been updated!
 
 You may unplug USBJoy and replug it with no keys pressed.
