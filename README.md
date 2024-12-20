@@ -4,7 +4,7 @@ English version below.
 
 Oto prosta instrukcja, jak zainstalować sterownik USBAsp na Windowsie. Następnie możesz dowiedzieć się, jak przesłać plik hex do mikrokontrolera/urządzenia USBJoy.
 
-Interfejs USBJoy ma wbudowany programator USBAsp. Możesz go aktywować, naciskając  przycisk "FIRE" PODCZAS podłączania USBJoy do gniazda USB przez co najmniej 1 sekundę (oczywiście joystick musi być najpierw podłączony do USBJoy).
+**Interfejs USBJoy ma wbudowany programator USBAsp. Możesz go aktywować, naciskając  przycisk "FIRE" PODCZAS podłączania USBJoy do gniazda USB przez co najmniej 1 sekundę (oczywiście joystick musi być najpierw podłączony do USBJoy).**
 
 ## Instrukcje
 
@@ -48,7 +48,7 @@ Możesz odłączyć USBJoy i ponownie podłączyć go już bez naciskania żadny
 
 This simple guide will let you setup USBAsp driver on Windows. Then you can read how to upload hex file to microcontroller/device.
 
-The USBJoy interface has USBAsp programmer built-in. You can activate it by pressing first button DURING connecting USBJoy into USB plug (of course joystick must be connected to USBJoy first).
+**The USBJoy interface has USBAsp programmer built-in. You can activate it by pressing first button DURING connecting USBJoy into USB plug (of course joystick must be connected to USBJoy first).**
 
 ## Instructions
 
